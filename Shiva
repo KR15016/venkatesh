@@ -14,3 +14,18 @@
     </div>
 </body>
 </html>
+
+#Shiva{
+    color: blueviolet;
+    text-align: center;
+    margin: 200px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#V{
+    color: greenyellow;
+    text-align: right;
+    margin-right: 400px;
+    margin-top: -150px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
